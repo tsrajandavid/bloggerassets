@@ -1444,7 +1444,8 @@ h6 {
 .index-post .post-info>h2>a {
     display: block;
     color: #c89080;
-    transition: color .17s
+    transition: color .17s;
+    font-family: 'Kavivanar', cursive;
 }
 
 .index-post .post-info>h2>a:hover {
